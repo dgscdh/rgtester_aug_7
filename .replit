@@ -1,2 +1,2 @@
 language = "java10"
-run = "java HW.class"
+run = "javac HW.java ; java HW"
